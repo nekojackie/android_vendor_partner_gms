@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <exceptions>
+      <exception package="com.google.android.syncadapters.calendar">
+          <permission name="android.permission.READ_CALENDAR" fixed="false"></permission>
+          <permission name="android.permission.WRITE_CALENDAR" fixed="false"></permission>
+      </exception>
+  </exceptions>
