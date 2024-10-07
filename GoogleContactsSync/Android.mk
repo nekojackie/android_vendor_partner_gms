@@ -1,6 +1,6 @@
 LOCAL_PATH := $(call my-dir)
 
-include $(CLEAN_VARS)
+include $(CLEAR_VARS)
 LOCAL_MODULE := default-permissions-com.google.android.syncadapters.contacts.xml
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT_PRODUCT_ETC)/permissions
